@@ -1,0 +1,9 @@
+{
+	"Annotate_Filter_VCF.vcfFile" : "Sample1.vcf",
+	"Annotate_Filter_VCF.geneList" : "ALS_genes_list.txt",
+	"Annotate_Filter_VCF.consequenceTerm" : "Stop gained",
+	"Annotate_Filter_VCF.alleleFrequency" : 0.01,
+	"Annotate_Filter_VCF.siftScore" : 0.04,
+	"Annotate_Filter_VCF.siftPrediction" : "Tolerated",
+	"Annotate_Filter_VCF.reference" : "Homo_sapiens_GRCh37.fasta"
+}
