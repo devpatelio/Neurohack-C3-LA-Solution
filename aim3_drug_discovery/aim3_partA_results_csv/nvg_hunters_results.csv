@@ -1,0 +1,74 @@
+organism,pref_name,target_type,gene_target
+Homo sapiens,Ribosomal protein S6 kinase alpha 1,SINGLE PROTEIN,RPS6KA1
+Rattus norvegicus,Ribosomal protein S6 kinase alpha 1,SINGLE PROTEIN,RPS6KA1
+Mus musculus,Ribosomal protein S6 kinase alpha-1,SINGLE PROTEIN,RPS6KA1
+Homo sapiens,Ribosomal protein S6 kinase,PROTEIN FAMILY,RPS6KA1
+Homo sapiens,Ribosomal protein S6 kinase alpha-1/alpha-3,PROTEIN FAMILY,RPS6KA1
+Homo sapiens,RPS6KA1/RPS6KA2/RPS6KA3,PROTEIN FAMILY,RPS6KA1
+Homo sapiens,p90RSK,PROTEIN FAMILY,RPS6KA1
+Homo sapiens,Canalicular multispecific organic anion transporter 2,SINGLE PROTEIN,ABCC3
+Rattus norvegicus,Canalicular multispecific organic anion transporter 2,SINGLE PROTEIN,ABCC3
+Mus musculus,Canalicular multispecific organic anion transporter 2,SINGLE PROTEIN,ABCC3
+Homo sapiens,Tyrosine-protein kinase receptor UFO,SINGLE PROTEIN,AXL
+Homo sapiens,TEL/AXL,CHIMERIC PROTEIN,AXL
+Homo sapiens,Vascular endothelial growth factor A,SINGLE PROTEIN,VEGFA
+Homo sapiens,Sulfotransferase 1A2,SINGLE PROTEIN,SUlT1A2
+Homo sapiens,Phenol sulfotransferase,PROTEIN FAMILY,SUlT1A2
+Homo sapiens,Thyroid hormone receptor alpha,SINGLE PROTEIN,THRA
+Rattus norvegicus,Thyroid hormone receptor alpha,SINGLE PROTEIN,THRA
+Bacillus anthracis,Anthrax lethal factor,SINGLE PROTEIN,THRA
+Bacillus anthracis,Protective antigen,SINGLE PROTEIN,THRA
+Bacillus anthracis,Calmodulin-sensitive adenylate cyclase,SINGLE PROTEIN,THRA
+Salmonella typhimurium (strain LT2 / SGSC1412 / ATCC 700720),Anthranilate synthase component 1,SINGLE PROTEIN,THRA
+Homo sapiens,Nuclear receptor subfamily 1 group D member 1,SINGLE PROTEIN,THRA
+Homo sapiens,Multidrug resistance-associated protein 6,SINGLE PROTEIN,THRA
+Homo sapiens,SUMO-activating enzyme,PROTEIN COMPLEX,THRA
+Homo sapiens,Thyroid hormone receptor,PROTEIN COMPLEX,THRA
+Homo sapiens,"3-hydroxyanthranilate 3,4-dioxygenase",SINGLE PROTEIN,THRA
+Rattus norvegicus,"3-hydroxyanthranilate 3,4-dioxygenase",SINGLE PROTEIN,THRA
+Homo sapiens,SUMO E1/E2,PROTEIN COMPLEX,THRA
+Bacillus anthracis,Antrax lethal toxin,PROTEIN COMPLEX,THRA
+Homo sapiens,Thyroid hormone receptor-associated protein 3,SINGLE PROTEIN,THRA
+Pseudomonas aeruginosa (strain ATCC 15692 / DSM 22644 / CIP 104116 /JCM 14847 / LMG 12228 / 1C / PRS 101 / PAO1),Anthranilate--CoA ligase,SINGLE PROTEIN,THRA
+Homo sapiens,Anthrax toxin receptor 2,SINGLE PROTEIN,THRA
+Rattus norvegicus,Thyroid Hormone Receptor,PROTEIN FAMILY,THRA
+Homo sapiens,Thyroid stimulating hormone receptor,SINGLE PROTEIN,TSHR
+Homo sapiens,Microsomal glutathione S-transferase 2,SINGLE PROTEIN,MGST2
+Rattus norvegicus,Glutamate receptor ionotropic kainate 4,SINGLE PROTEIN,GRIK4
+Rattus norvegicus,"Glutamate receptor ionotropic, kainate",PROTEIN COMPLEX GROUP,GRIK4
+Homo sapiens,Glutamate receptor ionotropic kainate,PROTEIN COMPLEX GROUP,GRIK4
+Rattus norvegicus,Glutamate (NMDA/AMPA/Kainate),PROTEIN COMPLEX GROUP,GRIK4
+Homo sapiens,Dual-specificity tyrosine-phosphorylation regulated kinase 1A,SINGLE PROTEIN,DYRK1A
+Mus musculus,Dual-specificity tyrosine-phosphorylation regulated kinase 1A,SINGLE PROTEIN,DYRK1A
+Rattus norvegicus,Dual specificity tyrosine-phosphorylation-regulated kinase 1A,SINGLE PROTEIN,DYRK1A
+Mus musculus,Protein kinase C beta,SINGLE PROTEIN,PRKCB
+Homo sapiens,Protein kinase C beta,SINGLE PROTEIN,PRKCB
+Rattus norvegicus,Protein kinase C beta,SINGLE PROTEIN,PRKCB
+Homo sapiens,Protein kinase C (PKC),PROTEIN FAMILY,PRKCB
+Rattus norvegicus,Protein kinase C (PKC),PROTEIN FAMILY,PRKCB
+Homo sapiens,"Protein kinase C, PKC; classical/novel",PROTEIN FAMILY,PRKCB
+Rattus norvegicus,"Protein kinase C, PKC; classical",PROTEIN FAMILY,PRKCB
+Homo sapiens,PKC alpha and beta-2,PROTEIN FAMILY,PRKCB
+Homo sapiens,Protein kinase C-binding protein 1,SINGLE PROTEIN,PRKCB
+Homo sapiens,Adenosine A1 receptor,SINGLE PROTEIN,ADORA1
+Gallus gallus,Adenosine A1 receptor,SINGLE PROTEIN,ADORA1
+Mus musculus,Adenosine A1 receptor,SINGLE PROTEIN,ADORA1
+Bos taurus,Adenosine A1 receptor,SINGLE PROTEIN,ADORA1
+Rattus norvegicus,Adenosine A1 receptor,SINGLE PROTEIN,ADORA1
+Oryctolagus cuniculus,Adenosine A1 receptor,SINGLE PROTEIN,ADORA1
+Rattus norvegicus,Adenosine receptors; A1 & A2,SELECTIVITY GROUP,ADORA1
+Homo sapiens,Adenosine receptors; A1 & A3,SELECTIVITY GROUP,ADORA1
+Rattus norvegicus,Adenosine receptors; A1 & A2a,SELECTIVITY GROUP,ADORA1
+Homo sapiens,Adenosine receptors; A1 & A2,SELECTIVITY GROUP,ADORA1
+Rattus norvegicus,Adenosine receptors; A1 & A3,SELECTIVITY GROUP,ADORA1
+Homo sapiens,Adenosine receptors; A1 & A2b,SELECTIVITY GROUP,ADORA1
+Homo sapiens,Adenosine receptors; A1 & A2a,SELECTIVITY GROUP,ADORA1
+Homo sapiens,Adenosine receptor,PROTEIN FAMILY,ADORA1
+Rattus norvegicus,Adenosine receptor,PROTEIN FAMILY,ADORA1
+Cavia porcellus,Adenosine A1 receptor,SINGLE PROTEIN,ADORA1
+Homo sapiens,Adenosine receptor A1/Alpha-2A adrenergic receptor,PROTEIN COMPLEX,ADORA1
+Homo sapiens,Insulin-like growth factor I receptor,SINGLE PROTEIN,IGF1R
+Mus musculus,Insulin-like growth factor 1 receptor,SINGLE PROTEIN,IGF1R
+Rattus norvegicus,Insulin-like growth factor 1 receptor,SINGLE PROTEIN,IGF1R
+Homo sapiens,Tumor necrosis factor ligand superfamily member 4,SINGLE PROTEIN,TNFSF4
+Homo sapiens,Tumor necrosis factor ligand superfamily member 12,SINGLE PROTEIN,TNFSF12
